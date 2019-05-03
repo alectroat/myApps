@@ -6,5 +6,8 @@ var flag = {
     },
     activated: function () {
 
+    },
+    reset: function () {
+
     }
 };
