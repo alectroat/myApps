@@ -9,5 +9,8 @@ var flag = {
     },
     reset: function () {
 
+    },
+    cancel: function () {
+
     }
 };
