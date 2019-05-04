@@ -12,5 +12,6 @@ var flag = {
     },
     cancel: function () {
 	alert('cancel not commited');
+	alert('event canceled');
     }
 };
