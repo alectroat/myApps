@@ -19,5 +19,6 @@ var flag = {
     },
     reset:function(){
     alert();
+    alert('rename');	
     }
 };
