@@ -16,5 +16,8 @@ var flag = {
     },
     remove:function(){
         alert();
+    },
+    reset:function(){
+    alert();
     }
 };
